@@ -42,3 +42,7 @@ sudo systemctl start webcamd.service
 Also activate the camera in Fluiid
 
 ![REnableCam](/img/camfluiid.png)
+
+## ADXL
+
+Coming Soon
