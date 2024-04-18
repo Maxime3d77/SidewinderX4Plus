@@ -29,6 +29,7 @@ To add a webcam, you can use my configuration file.
 You'll also need to connect to the printer via ssh.
 
 user: mks
+
 password: makerbase
 
 execute the following commands:
