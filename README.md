@@ -11,6 +11,8 @@ I provide you with my Orcaslicer profile for your Sidewinder X4 Plus
 
 [Profile Sidewinder X4 plus](/Orcaslicer/Sidewinder%20X4%20PLUS.orca_printer)
 
+The screen can freeze and the image is not supported by artillery with this slicer.
+
 Prints exemple:
 
 # Profile Klipper / Webcam
