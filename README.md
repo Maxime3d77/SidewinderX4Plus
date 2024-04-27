@@ -61,10 +61,10 @@ You will need the etcher software: https://etcher.balena.io/
 
 Remove the sidewinder cover and recover the EMMC by removing the 2 screws. 
 
-[SidewinderX4](/img/Sidewinderx4EMMC.png)
+![SidewinderX4](/img/Sidewinderx4EMMC.png)
 
 Plug it into the EMMC adapter and connect it to your computer. 
 
-[SidewinderX4](/img/Sidewinderx4EMMC2.png)
+![SidewinderX4](/img/Sidewinderx4EMMC2.png)
 
 Using the etcher software, attach the EMMC to your printer's system.
