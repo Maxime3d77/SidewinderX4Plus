@@ -12,6 +12,7 @@ https://drive.google.com/file/d/107kTrNO3BHI6ApPVBxDuyktZrRhjazqV/view?usp=shari
 ![MAJ](/img/X4MAJ001.png)
 
 Insert the USB drive with the firmware. 
+
 Click on "Tools" — "About" — "Renewable system" to start the automatic update
 
 # Profile Orcaslicer
